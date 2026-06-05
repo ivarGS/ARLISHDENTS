@@ -239,7 +239,7 @@ img:hover {
 }
 .student-card img {
   width: 100%;
-  height: 250px;
+  height: 300px;
   object-fit: fill;
   margin-bottom: 0.75rem;
 }
@@ -328,10 +328,4 @@ img:hover {
     display: grid;
     justify-content: center;
   }
-  .student-card img {
-  width: 100%;
-  height: 300px;
-  object-fit: fill;
-  margin-bottom: 0.75rem;
-}
 }
